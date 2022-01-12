@@ -37,7 +37,7 @@ module tblite_data_paulingen
    real(wp), parameter :: pauling_en(max_elem) = [ &
       & 2.20_wp,3.00_wp, & ! H,He
       & 0.98_wp,1.57_wp,2.04_wp,2.55_wp,3.04_wp,3.44_wp,3.98_wp,4.50_wp, & ! Li-Ne
-      & 0.93_wp,1.31_wp,1.61_wp,1.90_wp,2.19_wp,2.58_wp,3.16_wp,3.50_wp, & ! Na-Ar
+      & 0.93_wp,1.31_wp,1.61_wp,2.09_wp,2.19_wp,2.58_wp,3.16_wp,3.50_wp, & ! Na-Ar
       & 0.82_wp,1.00_wp, & ! K,Ca
       &                 1.36_wp,1.54_wp,1.63_wp,1.66_wp,1.55_wp, & ! Sc-
       &                 1.83_wp,1.88_wp,1.91_wp,1.90_wp,1.65_wp, & ! -Zn
